@@ -1,4 +1,4 @@
-module github.com/openapi-go/galasa-dev/runs
+module github.com/galasa-dev/openapi-go/runs
 
 go 1.13
 
